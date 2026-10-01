@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = os.getenv("DISCORD_TOKEN")
-PREFIX = "!"
+TOKEN = os.getenv("MTU1MzMzNDM5MTE5ODE5NTg0Mw.GLosFp.GU9gQiBtFL44cCByKNx9qctEBrU2dMacXY4deg
+PREFIX = "."
 MAX_SIZE_MB = 15          # Safe limit (change later if you have Nitro)
 MAX_SIZE = MAX_SIZE_MB * 1024 * 1024
 
