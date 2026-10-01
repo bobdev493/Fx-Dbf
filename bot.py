@@ -126,4 +126,4 @@ if __name__ == "__main__":
     if not TOKEN:
         print("ERROR: DISCORD_TOKEN not set!")
     else:
-        bot.run(TOKEN)
+        bot.run(MTU1MzMzNDM5MTE5ODE5NTg0Mw.GLosFp.GU9gQiBtFL44cCByKNx9qctEBrU2dMacXY4deg)
